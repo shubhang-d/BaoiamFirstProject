@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158391204307",
+    "project_id": "baoiamfirstproject",
+    "storage_bucket": "baoiamfirstproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158391204307:android:761886e0671aa2ceed5726",
+        "android_client_info": {
+          "package_name": "com.example.baoiamfirstproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsCj3NWGjBolkzUcJEHIPy3YQ-Hx5Ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
